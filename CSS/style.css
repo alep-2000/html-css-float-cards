@@ -84,7 +84,15 @@ img{
     color: rgb(10, 142, 194);
 }
 
+#row-1{
+    margin-top: 50px;
+}
+
 #row-2{
+    margin-top: 50px;
+}
+
+#row-3{
     margin-top: 50px;
 }
 /* END PROPERTIES IMG AND TEXT */
