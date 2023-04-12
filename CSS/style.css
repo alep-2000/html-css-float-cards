@@ -46,12 +46,9 @@ p{
 }
 /* END ROW AND COLUMN */
 /* PROPERTIES IMG AND TEXT */
-.content-img{
-    width: calc(100% / 2);
-}
 
 img{
-    width: 55%;
+    width: 25%;
     float: left;
 }
 
@@ -60,6 +57,7 @@ img{
 }
 
 .content-text{
+    width: 75%;
     padding-left: 15px;
     padding-top: 10px;
     float: left;
