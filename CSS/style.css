@@ -41,7 +41,6 @@ p{
 
 .column{
     width: calc(100% / 3 - 20px);
-    height: 95px;
     float: left;
     background-color: rgb(10, 10, 59);
 }
@@ -53,7 +52,6 @@ p{
 
 img{
     width: 55%;
-    height: 95px;
     float: left;
 }
 
