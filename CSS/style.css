@@ -43,6 +43,7 @@ p{
     width: calc(100% / 3 - 20px);
     float: left;
     background-color: rgb(10, 10, 59);
+    box-shadow: 0 0 10px black;
 }
 /* END ROW AND COLUMN */
 /* PROPERTIES IMG AND TEXT */
